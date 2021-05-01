@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# ChanceMe
+- project: ChanceMe
+  role: Developer
+  duration: April 2020
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: ChanceMe is a web application that makes predictions on whether a student will be accepted to a certain university's undergraduate program (UMich, UIUC, UMD, Cornell, Georgia Tech) based on his academic achievements. The application utilizes multiple different machine learning models to make predictions, and is based solely on admissions data from South Brunswick High School. <br> Notable Technologies <ul class="resume-item-list"><li>Python</li><li>HTML/CSS/Javascript</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# TiltPong
+- project: TiltPong
+  role: Developer
+  duration: April 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: TiltPong is an android application that essentially turns a mobile device into a Wii Remote to play certain games (for example, Pong) via web browser. The app retrieves sensor data from the phone and transmits it across a server to a web browser that is hosting the game. <ul class="resume-item-list"><li>Java</li><li>HTML/CSS/Javascript</li><li>NodeJS</li</ul>
+
+# TiltPong
+- project: RendezVous
+  role: Front End Developer
+  duration: October 2017
+  # url: "#"
+  description: RendezVous is an android application that takes the location of two phones and suggests neutral meeting points (e.g. coffee shops, internet cafes, restaurants) between the two users. Initially starting as a basic hackathon project, RendezVous was developed into a fully-fledged android application. <ul class="resume-item-list"><li>Java</li><li>Firebase</li</ul>

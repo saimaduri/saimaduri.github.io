@@ -1,19 +1,19 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Software Engineering Intern
+- company: Bloomberg LP
+  position: Software Engineering Intern
+  duration: May, 2021 &mdash; Present
+  summary: Still in progress!
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Software Engineering Intern
+- company: Bloomberg LP
+  position: Software Engineering Intern
+  duration:  Jun, 2020 &mdash; Sept, 2020
+  summary: Developed a Python library to interact with internal and external ticketing systems. The library provides users with a simplified, consistent programming interface across all systems to streamline and facilitate faster automation building. Used various APIs, databases, and services to retrieve and update information, performed significant testing, and created documentation to prepare the package for deployment.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Software Development / Data Science Intern
+- company: Leverton
+  position: Software Development / Data Science Intern
+  duration:   Jun, 2019  &mdash; Sept, 2019
+  summary: Developed a tool utilizing decision tree regressors & ensemble learning to predict the reviewing time of various documents that the LEVERTON Platform supports. Machine Learning algorithm predicts based on historical transactions. The script utilizes a machine learning model to predict total reviewer time values based on a multitude of different features.
