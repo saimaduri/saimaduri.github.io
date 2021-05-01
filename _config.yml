@@ -51,7 +51,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/saimaduri"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://saimaduri.github.io"
+  resume_website_url:           "https://github.com/saimaduri/resume/raw/main/SaiMaduriResume.pdf"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 

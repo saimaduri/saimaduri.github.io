@@ -6,7 +6,7 @@
   role: Developer
   duration: April 2020
   # url: "#"
-  description: ChanceMe is a web application that makes predictions on whether a student will be accepted to a certain university's undergraduate program (UMich, UIUC, UMD, Cornell, Georgia Tech) based on his academic achievements. The application utilizes multiple different machine learning models to make predictions, and is based solely on admissions data from South Brunswick High School. <br> Notable Technologies <ul class="resume-item-list"><li>Python</li><li>HTML/CSS/Javascript</li></ul>
+  description: ChanceMe is a web application that makes predictions on whether a student will be accepted to a certain university's undergraduate program (UMich, UIUC, UMD, Cornell, Georgia Tech) based on his academic achievements. The application utilizes multiple different machine learning models to make predictions, and is based solely on admissions data from South Brunswick High School. <ul class="resume-item-list"><li>Python</li><li>HTML/CSS/Javascript</li></ul>
 
 # TiltPong
 - project: TiltPong
