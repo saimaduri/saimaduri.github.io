@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: BA Computer Science
+  uni: Rutgers University
+  year: 2020 &mdash; 2024
+  # awards:
+  #   - award: Summa Cumme Laude graduate
+  summary: 'Relevant Coursework: Data Structures, Computer Architecture, Discrete Mathematics I, Discrete Mathematics II, Intro to Linear Algebra <br> GPA: 4.0/4.0'
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: South Brunswick High School
+  year: 2016 &mdash; 2020
+  # award: Most likely to succeed
+  summary: 'Relevant Coursework: Data Structures, Mobile App Development, Virtual Reality & Game Design, Independent Study in Artificial Intelligence, Multivariable Calculus, Linear Algebra <br> GPA: 4.0/4.0'
