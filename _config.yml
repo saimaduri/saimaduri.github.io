@@ -21,7 +21,7 @@ resume_contact_telephone:       "(908) 917-3705"
 resume_contact_address:         "Princeton, NJ"
 
 resume_header_contact_info:     "Princeton, NJ • saicmaduri@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Hi! I am a student at Rutgers University majoring in Computer Science. I love to solve problems and develop my skills using software, and am currently looking for research or internship opportunities.</p>"
 
