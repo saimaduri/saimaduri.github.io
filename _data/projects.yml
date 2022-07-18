@@ -1,23 +1,37 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Augmented Reality Sudoku Solver
+- project: Augmented Reality Sudoku Solver
+  role: Developer
+  duration: Python, OpenCV, TensorFlow, Sklearn
+  url: "https://github.com/saimaduri/sudoku"
+  description: AR Sudoku Solver is a desktop application that automatically scans and solves a sudoku board using optical character recognition and computer vision. The project uses OpenCV to extract and overlay digits on the scanned grid, and TensorFLow to recognize digits with 97% accuracy.
+
+# Augmented Reality Sudoku Solver
+- project: Chip8
+  role: Developer
+  duration: Python, OpenCV, TensorFlow, Sklearn
+  url: "https://github.com/saimaduri/chip8"
+  description: A Chip-8 emulator written in C++. Chip-8 is an interpreted programming language that allows video games to be more easily programmed for 8-bit microcomputers. The main motivation for creating thsi project is to increase familiarty with low-level programming concepts and gain development experience with C++.
+  
 # ChanceMe
 - project: ChanceMe
   role: Developer
-  duration: April 2020
+  duration: Python, HTML/CSS/JavaScript
   # url: "#"
-  description: ChanceMe is a web application that makes predictions on whether a student will be accepted to a certain university's undergraduate program (UMich, UIUC, UMD, Cornell, Georgia Tech) based on his academic achievements. The application utilizes multiple different machine learning models to make predictions, and is based solely on admissions data from South Brunswick High School. <ul class="resume-item-list"><li>Python</li><li>HTML/CSS/Javascript</li></ul>
+  description: ChanceMe is a web application that makes predictions on whether a student will be accepted to a certain university's undergraduate program (UMich, UIUC, UMD, Cornell, Georgia Tech) based on his academic achievements. The application utilizes multiple different machine learning models to make predictions, and is based solely on admissions data from South Brunswick High School. 
 
 # TiltPong
 - project: TiltPong
   role: Developer
-  duration: April 2019
+  duration: Java, HTML/CSS/JavaScript, NodeJS
   # url: "#"
-  description: TiltPong is an android application that essentially turns a mobile device into a Wii Remote to play certain games (for example, Pong) via web browser. The app retrieves sensor data from the phone and transmits it across a server to a web browser that is hosting the game. <ul class="resume-item-list"><li>Java</li><li>HTML/CSS/Javascript</li><li>NodeJS</li</ul>
+  description: TiltPong is an android application that essentially turns a mobile device into a Wii Remote to play certain games (for example, Pong) via web browser. The app retrieves sensor data from the phone and transmits it across a server to a web browser that is hosting the game.
 
-# TiltPong
+# RendezVous
 - project: RendezVous
-  role: Front End Developer
-  duration: October 2017
+  role: Developer
+  duration: Java, Firebase
   # url: "#"
-  description: RendezVous is an android application that takes the location of two phones and suggests neutral meeting points (e.g. coffee shops, internet cafes, restaurants) between the two users. Initially starting as a basic hackathon project, RendezVous was developed into a fully-fledged android application. <ul class="resume-item-list"><li>Java</li><li>Firebase</li</ul>
+  description: RendezVous is an android application that takes the location of two phones and suggests neutral meeting points (e.g. coffee shops, internet cafes, restaurants) between the two users. Initially starting as a basic hackathon project, RendezVous was developed into a fully-fledged android application.

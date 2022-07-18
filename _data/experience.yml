@@ -1,9 +1,16 @@
 # Jobs
+
+# Software Engineering Intern
+- company: Twitch
+  position: Software Engineering Intern
+  duration: June, 2022 &mdash; August 2022
+  summary: Migrated the Twitch YouTube Exporter post-processing worker from AWS Batch to an ECS Fargate architecture to increase scalability, improving worker throughput and decreasing service downtime. Built out infrastructure around the worker, adding a DLQ for storing failed export jobs, an API to retrieve VOD metadata, and a client library for Amazon IVS customers. 
+
 # Software Engineering Intern
 - company: Bloomberg LP
   position: Software Engineering Intern
   duration: May, 2021 &mdash; Present
-  summary: Still in progress!
+  summary: Engineered a user-friendly product to load test internal APIs that eliminated the need to write, package, and deploy testing code. Architected a KPI Dashboard used to provide usage statistics and deliver performance metrics for 650+ APIs and services company-wide. Scaled testing service horizontally, increasing concurrent testing capacity.
 
 # Software Engineering Intern
 - company: Bloomberg LP
@@ -11,9 +18,8 @@
   duration:  Jun, 2020 &mdash; Sept, 2020
   summary: Developed a Python library to interact with internal and external ticketing systems. The library provides users with a simplified, consistent programming interface across all systems to streamline and facilitate faster automation building. Used various APIs, databases, and services to retrieve and update information, performed significant testing, and created documentation to prepare the package for deployment.
 
-
 # Software Development / Data Science Intern
 - company: Leverton
   position: Software Development / Data Science Intern
   duration:   Jun, 2019  &mdash; Sept, 2019
-  summary: Developed a tool utilizing decision tree regressors & ensemble learning to predict the reviewing time of various documents that the LEVERTON Platform supports. Machine Learning algorithm predicts based on historical transactions. The script utilizes a machine learning model to predict total reviewer time values based on a multitude of different features.
+  summary: Created a tool utilizing decision tree regressors & ensemble learning to predict the reviewing time of various documents that the LEVERTON Platform supports. Machine Learning algorithm predicts based on historical transactions. The script utilizes a machine learning model to predict total reviewer time values based on a multitude of different features.

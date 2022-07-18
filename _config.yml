@@ -23,7 +23,14 @@ resume_contact_address:         "Princeton, NJ"
 resume_header_contact_info:     "Princeton, NJ • saicmaduri@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hi! I am a student at Rutgers University majoring in Computer Science. I love to solve problems and develop my skills using software, and am currently looking for research or internship opportunities.</p>"
+resume_header_intro: "<p>My name is Sai, and I&#39;m studying Computer Science at Rutgers University. I&#39;m currently seeking internships for Spring or Summer 2023 in Software Engineering or other related roles. If you think I&#39;d be a good fit for your company, please feel free to reach out to me by email or social media!</p>
+<p>Here are some places I&#39;ve put my software engineering skills to use</p>
+<ul>
+<li><b>Twitch</b>, the Amazon-owned interactive live streaming service, working on product infrastructure in the VOD team</li>
+<li><b>Bloomberg</b>, the creators of the world-renowned Bloomberg Terminal, working on both internal tools &amp; product in the Fixed Income Analytics team and working on infrastructure in the Data Retention team</li>
+<li><b>Leverton</b>, a startup specializing in AI-powered data extraction and contract analytics, working on product in a data science role</li>
+</ul>
+<p>I&#39;ve primarily used Java, Python, Go, and JavaScript/TypeScript throughout my internships and am familiar with many tools and technologies. I am also a motivated individual who can quickly learn and apply brand-new concepts (check out more about me from the perspective of my peers, mentors, and managers in the recommendation section of my LinkedIn). Additionally, having managed organizations and events of 100+ people, I can step into a leadership role in a team-oriented environment when necessary.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
